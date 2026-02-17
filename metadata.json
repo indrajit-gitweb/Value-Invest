@@ -1,0 +1,5 @@
+{
+  "name": "Value Invest Pro",
+  "description": "A professional-grade value investing calculator and analysis tool powered by Gemini. Perform DCF analysis, reverse DCF, and scenario planning with real-time data.",
+  "requestFramePermissions": []
+}
